@@ -1,0 +1,2 @@
+# fairway
+WordPress Project Starter
